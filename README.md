@@ -4,14 +4,14 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/w89FHm7.jpeg>
+<img src=https://www.linkpicture.com/q/TAURUSGFX.jpg>
 </p>
   <p align="center">
-<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-Amal-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/muhammed-trfx"><img title="Author" src="https://img.shields.io/badge/Author-MUHAMMED-hi?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to make it public
+Project created by <a href="https://github.com/muhammed-trfx">taurusbot</a> to make it public
     <br>
        | © |
         Reserved |
@@ -29,17 +29,17 @@ Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberchekuthan/Amalser_v2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammed-trfx/taurusbot) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MUHAMMED/MUHAMMED)
   
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/cyberchekuthan/Amalser_v2
-$ cd Amalser_v2
+$ git clone https://github.com/muhammed-trfx/taurusbot
+$ cd taurusbot
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -47,8 +47,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/cyberchekuthan/Amalser_v2
-$ cd Amalser_v2
+$ git clone https://github.com/muhammed-trfx/taurusbot
+$ cd taurusbot
 $ npm i
 $ node julie.js
 ```
@@ -56,16 +56,16 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/cyberchekuthan/Amalser_v2">
+  <a href="httsp://github.com/muhammed-trfx/taurusbot">
     
-<a href="https://github.com/cyberchekuthan/followers">
-<img src="https://img.shields.io/github/repo-size/cyberchekuthan/Amalser_v2?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https://github.com/muhammed-trfx/followers">
+<img src="https://img.shields.io/github/repo-size/muhammed-trfx/taurusbot?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/cyberchekuthan/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/cyberchekuthan?color=blue&style=flat-square"></a>
-<a href="https://github.com/cyberchekuthan/Amalser_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/cyberchekuthan/Amalser_v2?color=blue&style=flat-square"></a>
-<a href="https://github.com/cyberchekuthan/Amalser_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/cyberchekuthan/Amalser_v2?color=blue&style=flat-square"></a>
-<a href="https://github.com/cyberchekuthan/Amalser_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/cyberchekuthan/Amalser_v2?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/muhammed-trfx/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/muhammed-trfx?color=blue&style=flat-square"></a>
+<a href="https://github.com/muhammed-trfx/taurusbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/muhammed-trfx/taurusbot?color=blue&style=flat-square"></a>
+<a href="https://github.com/muhammed-trfx/taurusbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/muhammed-trfx/taurusbot?color=blue&style=flat-square"></a>
+<a href="https://github.com/muhammed-trfx/taurusbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/muhammed-trfx/taurusbot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -75,14 +75,14 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CbRlEux876XFsWQfIlOKty)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyberchekuthan&repo=Amalser_v2&theme=nightowl)](https://github.com/cyberchekuthan/Amalser_v2)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammed-trfx&repo=taurusbot&theme=nightowl)](https://github.com/muhammed-trfx/taurusbot)
   </div>
     
 ### ⚠ Warning ⚠
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-Amalser_v2 or we are not responsible for your account, 
+taurusbot or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
@@ -94,14 +94,14 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![Amalser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919895828468?text=Can%20you%20help%20bro)**
+**[![MUHAMMED](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919895828468?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/cyberchekuthan.png?size=100)](https://github.com/cyberchekuthan) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![MUHAMMED](https://github.com/muhammed-trfx.png?size=100)](https://github.com/muhammed-trfx) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [AMALSER](https://github.com/cyberchekuthan) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[farhan-dqz](https://github.com/farhan-dqz) | [MUHAMMED](https://github.com/muhammed-trfx) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
